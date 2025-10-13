@@ -5,23 +5,29 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;I'm+Kiran+Sala;Software+Engineer;AI+Developer" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00FFFF&center=true&vCenter=true&width=650&height=70&duration=4000&pause=800&lines=Hi+there!+👋;I'm+Kiran+Sala;AI+and+Cybersecurity;Securing+Tomorrow's+Digital+World" alt="Typing SVG"/>
+
 </div>
 
 <p align="center">
-  <em>Shipping production-ready code that scales</em>
+  <em>Engineering secure, scalable, and intelligent systems</em>
 </p>
 
 ---
 
-Software Engineer with expertise in full-stack development and AI integration. I specialize in building scalable web applications that serve production traffic and deliver measurable business value through clean, maintainable code.
+I’m **Kiran Sala**, a **Software Engineer and Cybersecurity Enthusiast** currently pursuing my passion for building secure digital ecosystems.  
+Recently, I started my **Cybersecurity Internship**, where I’m gaining hands-on experience in **threat analysis, vulnerability assessment, and secure application development**.
 
-My experience spans the complete software development lifecycle, from initial architecture decisions to deployment and monitoring. I focus on writing code that not only works today but remains robust and extensible as requirements evolve.
+With a strong foundation in **Full-Stack Development** and **AI**, I focus on integrating **machine learning models** and **security protocols** into production-ready web systems.  
+My goal is to develop applications that are not only fast and reliable — but also **resilient against evolving cyber threats**.
+
+I thrive at the intersection of **software engineering, AI, and cybersecurity**, continuously learning to stay ahead in a fast-evolving tech landscape.
 
 ---
+
 <div align="center">
 
-## Tech Stack
+## 🧠 Tech Stack
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -43,10 +49,10 @@ My experience spans the complete software development lifecycle, from initial ar
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="npm" src="https://img.shields.io/badge/-NPM-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
 </p>
 
 </div>
@@ -55,7 +61,7 @@ My experience spans the complete software development lifecycle, from initial ar
 
 <div align="center">
 
-  ## GitHub Analytics 
+  ## 📊 GitHub Analytics 
   
   <img src="https://github-readme-stats.vercel.app/api?username=kiransala&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiransala&theme=tokyonight&hide_border=true&layout=compact&card_width=300" height="165" alt="Most Used Languages" />
@@ -63,22 +69,18 @@ My experience spans the complete software development lifecycle, from initial ar
 
 ---
 
-
-
 <div align="center">
 
-  ## Contribution Graph
+  ## 🕸️ Contribution Graph
   
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kiransala/kiransala/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
 
-
-
 <div align="center">
 
-  ## Connect
+  ## 🌐 Connect
   
   <a href="https://kiransala.is-a.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
@@ -92,10 +94,8 @@ My experience spans the complete software development lifecycle, from initial ar
   <a href="mailto:kiransala.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  
-
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Open+to+new+opportunities;Let's+build+something+great" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Open+to+Cybersecurity+and+AI+Roles;Let's+Build+Secure+Intelligence" />
 </div>
