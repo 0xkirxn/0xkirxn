@@ -15,9 +15,7 @@
 
 ---
 
-I'm Kiran Sala, a Software Engineer passionate about creating web applications that solve real problems.
-
-I recently completed a Full Stack Development internship at Terabite, where I built features for a food delivery platform using Next.js, React, and Firebase. I worked on real-time order tracking, authentication systems, and optimized search algorithms getting hands-on experience with the challenges of building production-ready applications.
+I'm Kiran Sala, a Software Engineer passionate about creating web applications that solve real problems. 
 
 My technical interests span full-stack development, system design, and database architecture. I enjoy working on problems that require both creative problem solving and solid engineering fundamentals whether that's optimizing performance, designing efficient schemas, or building features that improve user experience.
 
