@@ -5,23 +5,23 @@
 </div>
 
 <div align="center">
- <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00FFFF&center=true&vCenter=true&width=650&height=70&duration=4000&pause=800&lines=Hi+there!+👋;I'm+Kiran+Sala;AI+and+Cybersecurity;Securing+Tomorrow's+Digital+World" alt="Typing SVG"/>
+ <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=00FFFF&center=true&vCenter=true&width=650&height=70&duration=4000&pause=800&lines=Hi+there!+👋;I'm+Kiran+Sala;Software Engineer;Full Stack Developer" alt="Typing SVG"/>
 
 </div>
 
 <p align="center">
-  <em>Engineering secure, scalable, and intelligent systems</em>
+  <em>Building scalable applications with clean code and thoughtful design</em>
 </p>
 
 ---
 
-I’m **Kiran Sala**, a **Software Engineer and Cybersecurity Enthusiast** currently pursuing my passion for building secure digital ecosystems.  
-Recently, I started my **Cybersecurity Internship**, where I’m gaining hands-on experience in **threat analysis, vulnerability assessment, and secure application development**.
+I'm Kiran Sala, a Software Engineer passionate about creating web applications that solve real problems.
 
-With a strong foundation in **Full-Stack Development** and **AI**, I focus on integrating **machine learning models** and **security protocols** into production-ready web systems.  
-My goal is to develop applications that are not only fast and reliable — but also **resilient against evolving cyber threats**.
+I recently completed a Full Stack Development internship at Terabite, where I built features for a food delivery platform using Next.js, React, and Firebase. I worked on real-time order tracking, authentication systems, and optimized search algorithms getting hands-on experience with the challenges of building production-ready applications.
 
-I thrive at the intersection of **software engineering, AI, and cybersecurity**, continuously learning to stay ahead in a fast-evolving tech landscape.
+My technical interests span full-stack development, system design, and database architecture. I enjoy working on problems that require both creative problem solving and solid engineering fundamentals whether that's optimizing performance, designing efficient schemas, or building features that improve user experience.
+
+I'm always learning, exploring new technologies, and looking for opportunities to work on meaningful projects that challenge me to grow as an engineer.
 
 ---
 
@@ -82,14 +82,14 @@ I thrive at the intersection of **software engineering, AI, and cybersecurity**,
 
   ## 🌐 Connect
   
-  <a href="https://kiransala.is-a.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" />
+ <!-- <a href="https://kiransala.is-a.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /> -->
   </a>
   <a href="https://linkedin.com/in/kiransala" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/kiransala_" target="_blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+ <!-- <a href="https://x.com/kiransala_" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /> -->
   </a>
   <a href="mailto:kiransala.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -97,5 +97,5 @@ I thrive at the intersection of **software engineering, AI, and cybersecurity**,
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Open+to+Cybersecurity+and+AI+Roles;Let's+Build+Secure+Intelligence" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Software+Engineer;Building+Scalable+Applications;Open+to+New+Opportunities" />
 </div>
