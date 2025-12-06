@@ -25,7 +25,7 @@ I'm always learning, exploring new technologies, and looking for opportunities t
 
 <div align="center">
 
-## 🧠 Tech Stack
+## Tech Stack
 
 <p>
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
@@ -56,7 +56,7 @@ I'm always learning, exploring new technologies, and looking for opportunities t
 </div>
 
 ---
-
+<!--
 <div align="center">
 
   ## 📊 GitHub Analytics 
@@ -66,10 +66,11 @@ I'm always learning, exploring new technologies, and looking for opportunities t
 </div>
 
 ---
+-->
 
 <div align="center">
 
-  ## 🕸️ Contribution Graph
+  ## Contribution Graph
   
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kiransala/kiransala/output/github-contribution-grid-snake-dark.svg" />
 </div>
@@ -78,7 +79,7 @@ I'm always learning, exploring new technologies, and looking for opportunities t
 
 <div align="center">
 
-  ## 🌐 Connect
+  ## Connect
   
  <!-- <a href="https://kiransala.is-a.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /> -->
