@@ -72,7 +72,7 @@ I'm always learning, exploring new technologies, and looking for opportunities t
 
   ## Contribution Graph
   
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/kiransala/kiransala/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/0xkirxn/0xkirxn/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
 ---
